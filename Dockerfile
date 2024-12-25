@@ -7,5 +7,4 @@ COPY ./package-lock.json .
 RUN npm ci
 COPY . .
 
-
 ENTRYPOINT ["npm", "start"]
