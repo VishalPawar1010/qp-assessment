@@ -1,6 +1,6 @@
 # Grocery Booking API
 
-Check out [API Testing video solution](youtu.be/Yk8kttgf8jU?si=btHCCwkVSJUMoo-n)
+Check out *API Testing video solution* : youtu.be/Yk8kttgf8jU?si=btHCCwkVSJUMoo-n
 
 LOCAL: For local testing using local db setup: Use following commands
 
